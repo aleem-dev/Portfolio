@@ -134,17 +134,17 @@ I have extensive experience creating and managing WordPress websites using tools
 
 ---
 
-## Open Source Contributions
+## Open Source Contributions (TODO)
 
-1. **[Open Source Library 1](https://github.com/example/library1)**  
+1. **[Open Source Library 1 TODO](https://github.com/example/library1)**  
    - **Description**: Contributed a new feature for better data handling.
    - **Tech Stack**: JavaScript, React Native.
 
-2. **[Open Source Library 2](https://github.com/example/library2)**  
+2. **[Open Source Library 2 TODO](https://github.com/example/library2)**  
    - **Description**: Fixed a critical bug in the authentication module.
    - **Tech Stack**: TypeScript, Node.js.
 
-3. **[Open Source Library 3](https://github.com/example/library3)**  
+3. **[Open Source Library 3 TODO](https://github.com/example/library3)**  
    - **Description**: Added comprehensive documentation and tests.
    - **Tech Stack**: Markdown, Jest.
 
