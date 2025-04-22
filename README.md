@@ -1,18 +1,19 @@
-# Aleem Shaikh's React Native Portfolio
+# Aleem Shaikh's Developer Portfolio
 
-Welcome to my portfolio of React Native applications and projects! This repository showcases a wide variety of apps, upcoming production-ready solutions, open-source contributions, and highlights my technical expertise with iOS and Android development builds, routing, and deployment.
+Welcome to my portfolio showcasing a wide range of skills, including React Native app development, WordPress website creation, and contributions to open-source projects.
 
 ---
 
 ## Table of Contents
 1. [React Native Portfolio Projects](#react-native-portfolio-projects)
-2. [Upcoming Production Projects](#upcoming-production-projects)
+2. [WordPress Development Skills](#wordpress-development-skills)
+3. [Upcoming Production Projects](#upcoming-production-projects)
    - [Indoor Plant Watering App](#indoor-plant-watering-app)
    - [Shopprone](#shopprone)
    - [DawahBC](#dawahbc)
-3. [Open Source Contributions](#open-source-contributions)
-4. [My Technical Expertise](#my-technical-expertise)
-5. [Contact and References](#contact-and-references)
+4. [Open Source Contributions](#open-source-contributions)
+5. [My Technical Expertise](#my-technical-expertise)
+6. [Contact and References](#contact-and-references)
 
 ---
 
@@ -89,28 +90,52 @@ Listed from the most advanced to the most basic:
 
 ---
 
+## WordPress Development Skills
+
+### Websites Created
+I have extensive experience creating and managing WordPress websites using tools like Elementor, Divi, WordPress Block Editor, and Canva. Below are some of the projects I’ve developed:
+
+1. [DataOne Labs](https://dataonelabs.io)
+   - **Description**: A professional website showcasing services and solutions for DataOne Labs.
+   - **Tools Used**: Elementor, WordPress Block Creator, Canva.
+   - **Role**: Developer and Designer.
+
+2. [Shopprone](https://shopprone.ca)
+   - **Description**: A corporate website for Shopprone, an AI and Machine Learning E-commerce solution provider.
+   - **Tools Used**: Divi, Canva.
+   - **Role**: Developer and Designer.
+
+3. [Product.Shopprone](https://product.shopprone.ca)
+   - **Description**: A product showcase website under the Shopprone brand.
+   - **Tools Used**: Elementor.
+   - **Role**: Developer.
+
+4. [Client72.Shopprone](https://client72.shopprone.ca)
+   - **Description**: A client website under the Shopprone umbrella.
+   - **Tools Used**: WordPress Block Editor.
+   - **Role**: Developer.
+
+5. [DawahBC](https://dawahbc.ca)
+   - **Description**: A community-focused website supporting new Muslims and fostering cross-cultural understanding.
+   - **Tools Used**: Divi, Canva.
+   - **Role**: Volunteer Developer, Designer, and Operator.
+   - **Status**: Actively managing and building an app for DawahBC.
+
+---
+
 ## Upcoming Production Projects
 
 ### Indoor Plant Watering App
 - **Description**: A React Native app designed for plant enthusiasts to track and manage indoor plant watering schedules.
 - **Features**: Splash screen, persistence, deep linking, Zustand state management, and more.
 - **Status**: Development in progress.
-- [Repository](https://github.com/aleem-dev/rnH/tree/main/IndoorPlantWateringApp)
 
 ### Shopprone
-- **Website**: [Shopprone](https://shopprone.ca)
-- **Description**: An AI and Machine Learning E-commerce solution provider based in Delta, BC. It supports local businesses with growth analytics, intelligence, and tailored solutions.
-- **Key Features**:
-  - Predictive analysis and digital marketing strategies.
-  - E-commerce hosting and AI-driven growth analytics.
-  - A strong focus on local businesses in Ladner, Delta, and the Lower Mainland.
+- **Description**: An AI and Machine Learning E-commerce solution provider supporting local businesses.
+- **Status**: Production-ready.
 
 ### DawahBC
-- **Website**: [DawahBC](https://dawahbc.ca)
-- **Description**: A community-focused initiative supporting new Muslims and fostering cross-cultural understanding.
-- **Key Features**:
-  - Dedicated volunteer team.
-  - Community engagement and resource support for new Muslims.
+- **Description**: Developing a mobile app to extend the community engagement features of DawahBC.
 
 ---
 
@@ -134,17 +159,10 @@ For more details about my contributions, visit my [GitHub Profile](https://githu
 
 ## My Technical Expertise
 
-As part of my learning and hands-on experience in React Native, I am proficient in:
-- **Routing**: Implementing seamless navigation using both file-based and stack-based approaches.
-- **Development Builds**:
-  - Creating iOS and Android builds using `npx expo run:ios` and `npx expo run:android`.
-  - Leveraging Expo Application Services (EAS) for cloud-based builds, signing, and distribution.
-- **Splash Screens & App Icons**: Adding and customizing splash screens and app icons for different platforms.
-- **Deep Linking**: Implementing deep linking to navigate directly to specific app screens, with parameter handling.
-- **Deployments**:
-  - Publishing apps to the Android Play Store and iOS App Store.
-  - Managing metadata, screenshots, and testing strategies.
-  - Utilizing EAS for keystore management and build automation.
+As part of my professional experience, I am proficient in:
+- **React Native Development**: Apps for Android and iOS, deep linking, EAS builds, deployment.
+- **WordPress Development**: Using Elementor, Divi, WordPress Block Editor, and Canva.
+- **Routing**: Implementing navigation in React Native projects.
 
 ---
 
