@@ -22,7 +22,7 @@ Welcome to my portfolio showcasing a wide range of skills, including React Nativ
 ### Featured Apps
 Listed from the most advanced to the most basic:
 
-1. [Indoor Plant Watering App](https://github.com/aleem-dev/rnH/tree/main/IndoorPlantWateringApp)
+1. [Upcoming Production App - Indoor Plant Watering App](https://github.com/aleem-dev/rnH/tree/main/IndoorPlantWateringApp)
    - **Description**: An app for tracking and scheduling indoor plant watering.
    - **Features**: Data persistence, splash screen, logo, deep linking, Zustand state management, file-based navigation.
    - **Tech Stack**: React Native, Expo, Zustand.
@@ -105,17 +105,12 @@ I have extensive experience creating and managing WordPress websites using tools
    - **Tools Used**: Divi, Canva.
    - **Role**: Developer and Designer.
 
-3. [Product.Shopprone](https://product.shopprone.ca)
-   - **Description**: A product showcase website under the Shopprone brand.
-   - **Tools Used**: Elementor.
-   - **Role**: Developer.
-
-4. [Client72.Shopprone](https://client72.shopprone.ca)
+3. [Client72.Shopprone](https://client72.shopprone.ca)
    - **Description**: A client website under the Shopprone umbrella.
    - **Tools Used**: WordPress Block Editor.
    - **Role**: Developer.
 
-5. [DawahBC](https://dawahbc.ca)
+4. [DawahBC](https://dawahbc.ca)
    - **Description**: A community-focused website supporting new Muslims and fostering cross-cultural understanding.
    - **Tools Used**: Divi, Canva.
    - **Role**: Volunteer Developer, Designer, and Operator.
