@@ -150,9 +150,9 @@ As part of my learning and hands-on experience in React Native, I am proficient 
 
 ## Contact and References
 
+- **Portfolio**: [GitHub Portfolio](https://github.com/aleem-dev/Portfolio)
 - **LinkedIn**: [Aleem Shaikh](https://in.linkedin.com/in/aleem-shaikh-54243732)
 - **GitHub**: [aleem-dev](https://github.com/aleem-dev)
 - **Email**: [shaikh.aleem@gmail.com](mailto:shaikh.aleem@gmail.com)
-- **Portfolio**: [Aleem-Dev-Portfolio] (https://github.com/aleem-dev/Portfolio)
 
 ---
