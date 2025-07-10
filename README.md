@@ -5,7 +5,7 @@ Welcome to my portfolio showcasing a wide range of skills, including React Nativ
 ---
 
 ## Table of Contents
--   [Data Analytics - Student Dropout Ratio](#https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
+-   [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
 -   [React Native Portfolio Projects](#react-native-portfolio-projects)
 -   [WordPress Development Skills](#wordpress-development-skills)
 -   [Upcoming Production Projects](#upcoming-production-projects)
@@ -20,7 +20,7 @@ Welcome to my portfolio showcasing a wide range of skills, including React Nativ
 ## Data Analytics
 ### Featured Projects
 
-* [Data Analytics - Student Dropout Ratio](#https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
+* [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
 - **Description**: A Data Science project showcase student at drop out risk based on their grades and attendance.
    - **Features**: Interactive Power BI dashboard, PRedictive Analysis, Automated data cleaning and transoformation, SQL DB2 queries,.
    - **Tech Stack**: SQL, Python, Power BI, Github, Pandas, Numpy.
