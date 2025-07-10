@@ -25,6 +25,7 @@ Welcome to my portfolio showcasing a wide range of skills, including React Nativ
    - **Features**: Interactive Power BI dashboard, PRedictive Analysis, Automated data cleaning and transoformation, SQL DB2 queries,.
    - **Tech Stack**: SQL, Python, Power BI, Github, Pandas, Numpy.
    - **Status**: In Production.
+   - **Publieshed Link**: [Student Dropout Ratio Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
 
 ## React Native Portfolio Projects
 
