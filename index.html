@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aleem Shaikh | Portfolio</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- 🔹 Hero Section -->
+<header class="bg-dark text-white text-center py-5">
+  <h1>Aleem Shaikh</h1>
+  <p class="lead">Data Analyst | React Native Developer | WordPress Builder</p>
+  <a href="#projects" class="btn btn-primary m-2">View Projects</a>
+  <a href="resume.pdf" class="btn btn-outline-light m-2">Download Resume</a>
+</header>
+
+<!-- 🔹 About Me -->
+<section id="about" class="container py-5">
+  <h2>About Me</h2>
+  <p class="mb-3">I am a systems-oriented Data Analyst with hands-on experience in analytics, app development, and web solutions. My journey spans engineering, IT management, and analytics projects with BrainStation and ShopprOne.</p>
+  
+  <!-- Timeline -->
+  <div class="accordion" id="careerTimeline">
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+          Career Timeline
+        </button>
+      </h2>
+      <div id="collapseOne" class="accordion-collapse collapse show">
+        <div class="accordion-body">
+          <ul>
+            <li>2025 – Data Analytics Certificate, BrainStation</li>
+            <li>2022 – Data Analyst, ShopprOne Technologies</li>
+            <li>2017 – Postgraduate Diploma, International Business Management</li>
+            <li>2005 – Bachelor of Engineering, Electronics & Telecommunications</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 🔹 Projects Section with Tabs -->
+<section id="projects" class="container py-5">
+  <h2>Projects</h2>
+  <ul class="nav nav-tabs" id="projectTabs" role="tablist">
+    <li class="nav-item"><button class="nav-link active" data-bs-toggle="tab" data-bs-target="#analytics">Data Analytics</button></li>
+    <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#reactnative">React Native</button></li>
+    <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#wordpress">WordPress</button></li>
+  </ul>
+
+  <div class="tab-content mt-3">
+    <!-- Data Analytics -->
+    <div class="tab-pane fade show active" id="analytics">
+      <div class="card mb-3">
+        <div class="card-body">
+          <h5 class="card-title">Shopping Behavior Trend Analysis</h5>
+          <p class="card-text">Analyzed consumer demographics, seasonality, and purchase behavior. Recommended free shipping thresholds and targeted promotions.</p>
+          <a href="Shopping_Behavior_Trend_Analysis.pdf" class="btn btn-primary">View Case Study</a>
+        </div>
+      </div>
+      <!-- Add more analytics projects here -->
+    </div>
+
+    <!-- React Native -->
+    <div class="tab-pane fade" id="reactnative">
+      <div class="card mb-3">
+        <div class="card-body">
+          <h5 class="card-title">Taskly App</h5>
+          <p class="card-text">Cross-platform task management app with reminders and push notifications.</p>
+          <a href="https://github.com/aleem-dev/Taskly" class="btn btn-primary">View on GitHub</a>
+        </div>
+      </div>
+      <!-- Add more React Native projects here -->
+    </div>
+
+    <!-- WordPress -->
+    <div class="tab-pane fade" id="wordpress">
+      <div class="accordion" id="wpProjects">
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWP1">
+              DataOne Labs Website
+            </button>
+          </h2>
+          <div id="collapseWP1" class="accordion-collapse collapse">
+            <div class="accordion-body">
+              <p>Developed professional website using Elementor and Canva. Role: Developer & Designer.</p>
+              <a href="https://dataonelabs.com" class="btn btn-primary">Visit Site</a>
+            </div>
+          </div>
+        </div>
+        <!-- Add more WordPress projects here -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 🔹 Contact Section -->
+<footer class="bg-dark text-white text-center py-4">
+  <h4>Contact Me</h4>
+  <p>Email: shaikh.aleem@gmail.com</p>
+  <a href="https://www.linkedin.com/in/aleem-shaikh-dev/" class="btn btn-outline-light m-2">LinkedIn</a>
+  <a href="https://github.com/aleem-dev" class="btn btn-outline-light m-2">GitHub</a>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
