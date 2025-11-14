@@ -19,6 +19,19 @@ Welcome to my portfolio showcasing a wide range of skills, including React Nativ
 ---
 ## Data Analytics
 ### Featured Projects
+* [Data Analytics - Shopping Behavior Trend Analysis](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
+- **Description**: A Data Science project showcase Shopping Behaviour Trend Analysis.
+   - **Features**: Hypothesis formation, Statestical Analysis, Persona Creation, Automated data cleaning and transoformation, SQL DB2 queries.
+   - **Tech Stack**: Excel, SQL, Tableau, Microsoft PowerPoint.
+   - **Status**: In Production.
+   - **Publieshed Link**: [Shopping Behavior Trend Analysis](BrainStation/00Keystone Project/Final Upload Folder/Shopping Behavior Trend Analysis_BK & AS.pdf)
+
+* [Data Analytics - MapleRoots](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
+- **Description**: A Data Science project showcase student at drop out risk based on their grades and attendance.
+   - **Features**: Interactive Power BI dashboard, PRedictive Analysis, Automated data cleaning and transoformation, SQL DB2 queries,.
+   - **Tech Stack**: SQL, Python, Power BI, Github, Pandas, Numpy.
+   - **Status**: In Production.
+   - **Publieshed Link**: [Student Dropout Ratio Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
 
 * [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
 - **Description**: A Data Science project showcase student at drop out risk based on their grades and attendance.
