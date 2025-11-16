@@ -29,10 +29,10 @@ Welcome to my portfolio showcasing a wide range of skills, including Data Scienc
 
 * [Data Analytics - MapleRoots](https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots)
   - **Description**: A project focused on analyzing student performance and identifying dropout risks.
-  - **Features**: Interactive Power BI dashboard, predictive analysis, automated data cleaning and transformation, SQL DB2 queries.
-  - **Tech Stack**: SQL, Python, Power BI, Pandas, NumPy.
+  - **Features**: Interactive Streamlit dashboard, Probability and Time Series analysis, automated data cleaning and transformation, using SQLite DB.
+  - **Tech Stack**: SQLite, Python, Pandas, NumPy, Matplotlib, Streamlit.
   - **Status**: In Production.
-  - **Published Link**: [MapleRoots Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
+  - **Published Link**: [MapleRoots Power BI Report](https://dataanalysis-g3wsrohpaxupblwtyevyja.streamlit.app/)
 
 * [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
   - **Description**: A project showcasing student dropout risk analysis based on grades and attendance.
