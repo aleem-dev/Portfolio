@@ -20,7 +20,7 @@ Welcome to my portfolio showcasing a wide range of skills, including Data Scienc
 ## Data Analytics
 ### Featured Projects
 
-* [Data Analytics - Shopping Behaviour Analysis](https://github.com/aleem-dev/DataAnalysis/tree/main/BrainStation/00Keystone%20Project)
+* [Data Analytics - Shopping Behaviour Analysis](https://github.com/aleem-dev/DataAnalysis/tree/main/BrainStation/00Keystone%20Project/Final%20Upload%20Folder)
   - **Description**: A Data Science project analyzing shopping behaviour trends.
   - **Features**: Hypothesis formation, statistical analysis, persona creation, automated data cleaning and transformation, SQL DB2 queries.
   - **Tech Stack**: Excel, SQL, Tableau, Microsoft PowerPoint.
