@@ -3,45 +3,45 @@
 Welcome to my portfolio showcasing a wide range of skills, including Data Science, Data Analytics, React Native app development, WordPress website creation, and contributions to open-source projects.
 
 ---
-
 ## Table of Contents
--   [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
-   - [Indoor Plant Watering App](#indoor-plant-watering-app)
-   - [Shopprone](#shopprone)
-   - [DawahBC](#dawahbc)
--   [React Native Portfolio Projects](#react-native-portfolio-projects)
--   [WordPress Development Skills](#wordpress-development-skills)
--   [Upcoming Production Projects](#upcoming-production-projects)
-   - [Indoor Plant Watering App](#indoor-plant-watering-app)
-   - [Shopprone](#shopprone)
-   - [DawahBC](#dawahbc)
--   [Open Source Contributions](#open-source-contributions)
--   [My Technical Expertise](#my-technical-expertise)
--   [Contact and References](#contact-and-references)
+- [Data Analytics](#data-analytics)
+  - [Shopping Behaviour Analysis](#data-analytics---shopping-behaviour-analysis)
+  - [MapleRoots](#data-analytics---mapleroots)
+  - [Student Dropout Ratio](#data-analytics---student-dropout-ratio)
+- [React Native Portfolio Projects](#react-native-portfolio-projects)
+- [WordPress Development Skills](#wordpress-development-skills)
+- [Upcoming Production Projects](#upcoming-production-projects)
+- [Open Source Contributions](#open-source-contributions)
+- [My Technical Expertise](#my-technical-expertise)
+- [Contact and References](#contact-and-references)
 
 ---
+
 ## Data Analytics
 ### Featured Projects
-* [Data Analytics - Shopping Behavior Trend Analysis](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
-- **Description**: A Data Science project showcase Shopping Behaviour Trend Analysis.
-   - **Features**: Hypothesis formation, Statestical Analysis, Persona Creation, Automated data cleaning and transoformation, SQL DB2 queries.
-   - **Tech Stack**: Excel, SQL, Tableau, Microsoft PowerPoint.
-   - **Status**: In Production.
-   - **Publieshed Link**: [Shopping Behavior Trend Analysis](BrainStation/00Keystone Project/Final Upload Folder/Shopping Behavior Trend Analysis_BK & AS.pdf)
 
-* [Data Analytics - MapleRoots](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
-- **Description**: A Data Science project showcase student at drop out risk based on their grades and attendance.
-   - **Features**: Interactive Power BI dashboard, PRedictive Analysis, Automated data cleaning and transoformation, SQL DB2 queries,.
-   - **Tech Stack**: SQL, Python, Power BI, Github, Pandas, Numpy.
-   - **Status**: In Production.
-   - **Publieshed Link**: [Student Dropout Ratio Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
+* [Data Analytics - Shopping Behaviour Analysis](https://github.com/aleem-dev/DataAnalysis/tree/main/BrainStation/00Keystone%20Project)
+  - **Description**: A Data Science project analyzing shopping behaviour trends.
+  - **Features**: Hypothesis formation, statistical analysis, persona creation, automated data cleaning and transformation, SQL DB2 queries.
+  - **Tech Stack**: Excel, SQL, Tableau, Microsoft PowerPoint.
+  - **Status**: In Production.
+  - **Published Link**: [Shopping Behavior Trend Analysis PDF](https://github.com/aleem-dev/DataAnalysis/blob/main/BrainStation/00Keystone%20Project/Final%20Upload%20Folder/Shopping%20Behavior%20Trend%20Analysis_BK%20%26%20AS.pdf)
+
+* [Data Analytics - MapleRoots](https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots)
+  - **Description**: A project focused on analyzing student performance and identifying dropout risks.
+  - **Features**: Interactive Power BI dashboard, predictive analysis, automated data cleaning and transformation, SQL DB2 queries.
+  - **Tech Stack**: SQL, Python, Power BI, Pandas, NumPy.
+  - **Status**: In Production.
+  - **Published Link**: [MapleRoots Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
 
 * [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
-- **Description**: A Data Science project showcase student at drop out risk based on their grades and attendance.
-   - **Features**: Interactive Power BI dashboard, PRedictive Analysis, Automated data cleaning and transoformation, SQL DB2 queries,.
-   - **Tech Stack**: SQL, Python, Power BI, Github, Pandas, Numpy.
-   - **Status**: In Production.
-   - **Publieshed Link**: [Student Dropout Ratio Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
+  - **Description**: A project showcasing student dropout risk analysis based on grades and attendance.
+  - **Features**: Interactive Power BI dashboard, predictive analysis, automated data cleaning and transformation, SQL DB2 queries.
+  - **Tech Stack**: SQL, Python, Power BI, Pandas, NumPy.
+  - **Status**: In Production.
+  - **Published Link**: [Student Dropout Ratio Power BI Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)
+
+---
 
 ## React Native Portfolio Projects
 
