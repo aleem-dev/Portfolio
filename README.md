@@ -6,6 +6,9 @@ Welcome to my portfolio showcasing a wide range of skills, including Data Scienc
 
 ## Table of Contents
 -   [Data Analytics - Student Dropout Ratio](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
+   - [Indoor Plant Watering App](#indoor-plant-watering-app)
+   - [Shopprone](#shopprone)
+   - [DawahBC](#dawahbc)
 -   [React Native Portfolio Projects](#react-native-portfolio-projects)
 -   [WordPress Development Skills](#wordpress-development-skills)
 -   [Upcoming Production Projects](#upcoming-production-projects)
