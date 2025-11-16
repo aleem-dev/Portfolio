@@ -1,6 +1,6 @@
 # Aleem Shaikh's Developer Portfolio
 
-Welcome to my portfolio showcasing a wide range of skills, including React Native app development, WordPress website creation, and contributions to open-source projects.
+Welcome to my portfolio showcasing a wide range of skills, including Data Science, Data Analytics, React Native app development, WordPress website creation, and contributions to open-source projects.
 
 ---
 
