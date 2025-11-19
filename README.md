@@ -28,8 +28,8 @@ Welcome to my portfolio showcasing a wide range of skills, including Data Scienc
   - **Published Link**: [Shopping Behavior Trend Analysis PDF](https://github.com/aleem-dev/DataAnalysis/blob/main/BrainStation/00Keystone%20Project/Final%20Upload%20Folder/Shopping%20Behavior%20Trend%20Analysis_BK%20%26%20AS.pdf)
 
 * [Data Analytics - MapleRoots](https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots)
-  - **Description**: A project focused on analyzing student performance and identifying dropout risks.
-  - **Features**: Interactive Streamlit dashboard, Probability and Time Series analysis, automated data cleaning and transformation, using SQLite DB.
+  - **Description**: Show the chance of being born in Canada in a particular year, using available public data.
+  - **Features**: Retrive and process public data related to birthrate, load the data into a local SQL database, Calculate the probability, Interactive Streamlit dashboard, Probability and Time Series analysis, automated data cleaning and transformation, using SQLite DB.
   - **Tech Stack**: SQLite, Python, Pandas, NumPy, Matplotlib, Streamlit.
   - **Status**: In Production.
   - **Published Link**: [MapleRoots Power BI Report](https://dataanalysis-g3wsrohpaxupblwtyevyja.streamlit.app/)
